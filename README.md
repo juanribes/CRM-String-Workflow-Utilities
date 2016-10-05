@@ -10,9 +10,12 @@ Custom workflow actions that deal with text strings in Dynamics CRM 2011, 2013, 
 * PadLeft Dynamic
 * PadRight
 * PadRight Dynamic
+* Regex Extract
 * Regex Match
 * Regex Replace
+* Regex Replace With Space
 * Replace
+* Replace With Space
 * Reverse
 * StartsWith
 * Substring
