@@ -1,4 +1,4 @@
-# CRM-String-Workflow-Utilities
+# CRM String Workflow Utilities
 Custom workflow actions that deal with text strings in Dynamics CRM 2011, 2013, 2015, & 2016
 
 * Contains
